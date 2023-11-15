@@ -9,6 +9,14 @@ The purpose of this project is to explore data related to bike share systems for
 
 ### Files Used
 
+*new_york_city.csv: This file shows the bike data for New York City.
+
+*washington.csv: This file shows the bike data for Washington.
+
+*chicago.csv: This file shows the bike data for Chicago.
+
+*bikeshare.py: The Python script that imports the data, answers structured questions about it and creates an interactive experience in the terminal.
+
 
 ### Requirement
 This program was written in Python (version 3.11.5) and relies on the following libraries:
