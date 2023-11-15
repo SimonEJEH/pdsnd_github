@@ -2,7 +2,7 @@
 November 15, 2023
 
 ### Project Title
-Exploring US Bikeshare Data with Python
+EXPLORING US BIKESHARE DATA WITH PYTHON
 
 ### Description
 The purpose of this project is to explore data related to bike share systems for three major cities in the United States- Chicago, Washington and New York City- using python. Motivate, a bike share company that opeartes in about 50 cities around the world, collected the data that was used for this project.
