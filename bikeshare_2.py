@@ -140,7 +140,7 @@ def load_data(city, month, day):
 
 
 def time_stats(df):
-    """Displays statistics on the most frequent times of travel."""
+    """Displays realtime statistics on the most frequent times of travel."""
     print('\nJust wait a moment.... Loading the data')
     print('\nData Loaded Successfully. Now applying filters...\n')
     start_time = time.time()
