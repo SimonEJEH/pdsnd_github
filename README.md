@@ -24,8 +24,8 @@ This program was written in Python (version 3.11.5) and relies on the following 
 *pandas python library
 
 
-### Usage
-Once you have python installed, you can run the project by opening a terminal window and navigating to the directory where the project files are located.
+### USAGE
+First of all, you need to have python installed then you can run the project by opening a terminal window and navigating to the directory where the project files are located.
 
 By typing the command **python bikeshare.py** the interactive session is initiated and specific information according to month, day of the week can be obtained.
 
