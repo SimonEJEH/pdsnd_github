@@ -1,5 +1,5 @@
-### Date created
-2023-11-14
+### Date Created
+November 15, 2023
 
 ### Project Title
 Exploring US Bikeshare Data with Python
