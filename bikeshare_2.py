@@ -9,7 +9,7 @@ CITY_DATA = {'chicago': 'chicago.csv',
 
 
 def design_pat(row, text):
-    """Prints a pattern of stars with a given number of rows and a text message."""
+    """Prints a form of stars with rows and a text message."""
     stars = "*"
     for i in range(row):
         print(stars * (i + 1))
@@ -140,7 +140,7 @@ def load_data(city, month, day):
 
 
 def time_stats(df):
-    """Displays statistics on the most frequent times of travel."""
+    """Displays realtime statistics on the most frequent times of travel."""
     print('\nJust wait a moment.... Loading the data')
     print('\nData Loaded Successfully. Now applying filters...\n')
     start_time = time.time()
