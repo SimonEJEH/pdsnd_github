@@ -7,12 +7,12 @@ Exploring US Bikeshare Data with Python
 ### Description
 The purpose of this project is to explore data related to bike share systems for three major cities in the United States- Chicago, Washington and New York City- using python. Motivate, a bike share company that opeartes in about 50 cities around the world, collected the data that was used for this project.
 
-### Files used
-*washington.csv: This file shows the bike share data for Washington.
+### FILES USED
+*washington.csv: Shows the bike share data for Washington.
 
-*new_york_city.csv: This file shows the bike data for New York City.
+*new_york_city.csv: Shows the bike data for New York City.
 
-*chicago.csv: This file shows bike share data for Chicago.
+*chicago.csv: Shows bike share data for Chicago.
 
 *bikeshare.py: The Python script that imports the data, answers structured questions about it and creates an interactive experience in the terminal.
 
