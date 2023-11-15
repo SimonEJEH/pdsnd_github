@@ -9,7 +9,7 @@ CITY_DATA = {'chicago': 'chicago.csv',
 
 
 def design_pat(row, text):
-    """Prints a pattern of stars with a given number of rows and a text message."""
+    """Prints a form of stars with rows and a text message."""
     stars = "*"
     for i in range(row):
         print(stars * (i + 1))
