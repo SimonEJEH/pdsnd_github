@@ -17,7 +17,7 @@ The purpose of this project is to explore data related to bike share systems for
 *bikeshare.py: The Python script that imports the data, answers structured questions about it and creates an interactive experience in the terminal.
 
 
-### Requirement
+### REQUIREMENT
 This program was written in Python (version 3.11.5) and relies on the following libraries:
 *numpy python library
 
@@ -38,6 +38,6 @@ A basic understanding of Python is required to adequately use this project. It w
 *What is the most popular start station used on specific day of the week?
 
 
-### Credits
-The credit surely goes to **Udacity** for their **Introduction to Programming for Data Science** Nanodegree Program that has provided a powerful foundation to build. Also to **Motivate** who provided the data used for this course.
+### CREDITS
+The credit goes to **Udacity** for their **Introduction to Programming for Data Science** Nanodegree Program that has provided a powerful foundation to build. Also to **Motivate** who provided the data used for this course and most importantly, **ACCESS BANK** for making this available on scholarship.
 
