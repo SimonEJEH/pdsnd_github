@@ -41,5 +41,5 @@ A basic understanding of Python is required to adequately use this project. It w
 
 
 ### Credits
-
+The credit surely goes to **UDACITY** for their **Introduction to Programming for Data Science** Nanodegree Program that has provided a powerful foundation to build on. Also to **MOTIVATE** who provided the data used for this course.
 
